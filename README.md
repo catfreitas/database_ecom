@@ -1,4 +1,4 @@
-# Node-Express-MongoDB Project
+# Node.js-Express.js-MongoDB Project
 
 This REST API was created to use to support a ecommerce store project that I developed in my course.
 
